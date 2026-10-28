@@ -1,0 +1,6 @@
+*.zip
+*.jar
+*.log
+*.png
+source/
+.local-tests/

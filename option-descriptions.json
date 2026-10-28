@@ -1,0 +1,5 @@
+{
+  "en_US": "Use 1 to match nearby SEUS water reflection strength. Lower values reduce only distant reflections and can cause a color seam.",
+  "zh_CN": "推荐设为 1，与近景水面反射强度一致。较低数值仅减弱远景反射，可能造成远近水面色差。",
+  "zh_TW": "建議設為 1，與近景水面反射強度一致。較低數值僅減弱遠景反射，可能造成遠近水面色差。"
+}
